@@ -1,4 +1,4 @@
-# FCSC 2019 - Hvítur Kassi 1
+# FCSC 2019 - Hvítur Kassi 2
 
 Saurez-vous désormais extraire la clé secrète k utilisée par cet algorithme de chiffrement ?
 
@@ -18,7 +18,7 @@ le fichier commun est **[wb.py](wb.py)**
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
-Origine : [Hvítur Kassi 1](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-1/)
+Origine : [Hvítur Kassi 2](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-2/)
 
 
 
@@ -36,4 +36,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-1/
+> https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-2/
