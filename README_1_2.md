@@ -18,7 +18,7 @@ le fichier commun est **[wb.py](wb.py)**
 
 Auteur : [Cryptanalyse](https://twitter.com/Cryptanalyse)
 
-Origine : [Hvítur Kassi 2](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-2/)
+Origine : [Hvítur Kassi 1](https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-1/)
 
 
 
@@ -36,4 +36,4 @@ Mais voici comment installer ce CTF manuellement :
 -----------
 
 ## Sur le site officiel hackropole.fr
-> https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-2/
+> https://hackropole.fr/fr/challenges/crypto/fcsc2019-crypto-hvitur-kassi-1/
